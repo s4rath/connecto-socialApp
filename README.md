@@ -17,6 +17,9 @@ This is a social media application built with Flutter. Currently, the project in
 <img src="https://github.com/s4rath/connecto-socialApp/assets/83325357/44017b37-66c1-445f-9f36-1a1dbe713860" alt="OTPverification" width="260"/>
 <img src="https://github.com/s4rath/connecto-socialApp/assets/83325357/29fed9d2-443f-497d-9807-1c36087abb94" alt="PasswordChangeSucess" width="260"/>
 <img src="https://github.com/s4rath/connecto-socialApp/assets/83325357/cd98d4c3-223b-47e1-8b53-3837b1466da6" alt="LoginHome" width="260"/>
+<img src="https://github.com/s4rath/connecto-socialApp/assets/83325357/ec7625cc-dfa6-4108-9e06-3e0ec49419dd" alt="ProfileScreen" width="260"/>
+<img src="https://github.com/s4rath/connecto-socialApp/assets/83325357/684ed7d4-adcd-4a05-ac13-482495ffa9ec" alt="ProfileScreenPost" width="260"/>
+
 
 ## Getting Started
 
