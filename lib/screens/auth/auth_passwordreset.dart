@@ -276,7 +276,7 @@ class _PasswordResetState extends State<PasswordReset> {
                                   Navigator.pop(context);
                                   Navigator.of(context).pushReplacement(
                                     MaterialPageRoute(builder: (context) {
-                                      return HomeScreen();
+                                      return HomePage();
                                     }),
                                   );
                                 },

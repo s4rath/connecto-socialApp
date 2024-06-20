@@ -343,7 +343,7 @@ class _PinCodeVerificationScreenState
                                   Navigator.of(context).pushReplacement(
                                     MaterialPageRoute(builder: (context) {
                                       if (!widget.isemail!) {
-                                        return HomeScreen();
+                                        return HomePage();
                                       } else {
                                         return PasswordReset();
                                       }
