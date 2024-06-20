@@ -1,6 +1,6 @@
 # Connecto- A Social Media Application
 
-This is a social media application built with Flutter. Currently, the project includes only the UI for the authentication page.
+This is a social media application built with Flutter. The project currently includes the UI for the authentication page, bottom navigation bar, and profile page.
 
 ## Features
 
